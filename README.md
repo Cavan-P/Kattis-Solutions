@@ -1,3 +1,3 @@
 # Kattis Problem Solutions
 
-###Starting at the top with the "Easy" rated problems
+Starting at the top with the "Easy" rated problems
